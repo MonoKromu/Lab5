@@ -1,0 +1,20 @@
+нояб. 13, 2024 12:46:51 PM geometry3d.Cylinder <init>
+FINEST: Created new Cylinder
+нояб. 13, 2024 12:46:51 PM geometry3d.Cylinder setBase
+FINEST: Setting base for cylinder: geometry2d.Rectangle
+нояб. 13, 2024 12:46:51 PM geometry3d.Cylinder setHeight
+FINEST: Setting cylinder height to 10
+нояб. 13, 2024 12:46:51 PM geometry2d.Rectangle area
+INFO: Calculating rectangle area
+нояб. 13, 2024 12:46:51 PM geometry2d.Rectangle perimeter
+INFO: Calculating rectangle perimeter
+нояб. 13, 2024 12:46:51 PM geometry3d.Cylinder volume
+FINEST: Calculating cylinder volume
+нояб. 13, 2024 12:46:51 PM geometry2d.Rectangle area
+INFO: Calculating rectangle area
+нояб. 13, 2024 12:46:51 PM geometry3d.Cylinder <init>
+FINEST: Created new Cylinder
+нояб. 13, 2024 12:46:51 PM geometry3d.Cylinder setBase
+FINEST: Setting base for cylinder: geometry2d.Rectangle
+нояб. 13, 2024 12:46:51 PM geometry3d.Cylinder setHeight
+FINEST: Setting cylinder height to 10
